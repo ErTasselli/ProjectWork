@@ -29,7 +29,7 @@
    ```bash
    git clone https://github.com/ErTasselli/ProjectWork
    ```
-   # oppure scarica i file ZIP dalla repository
+   <small>oppure scarica i file ZIP dalla repository</small>
 
 2. **Estrai i file** (se hai scaricato il ZIP)
    - Estrai la cartella in una posizione a tua scelta
