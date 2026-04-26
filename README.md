@@ -27,7 +27,7 @@
 
 1. **Clona o scarica i file**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ErTasselli/ProjectWork
    # oppure scarica i file ZIP dalla repository
    ```
 
