@@ -9,16 +9,16 @@
 
 ## 📸 Anteprima delle Pagine
 
-### Pagina 1 - Homepage
+### Homepage
 ![Page 1](images/page1.png)
 
-### Pagina 2 - Sezione Principale
+### Sezione Principale
 ![Page 2](images/page2.png)
 
-### Pagina 3 - Pilastri di Sostenibilità
+### Pilastri di Sostenibilità
 ![Page 3](images/page3.png)
 
-### Pagina 4 - Numeri Chiave
+### Numeri Chiave
 ![Page 4](images/page4.png)
 
 ---
@@ -42,7 +42,6 @@
 4. **Esplora il sito**
    - Utilizza il menu di navigazione per muoverti tra le sezioni
    - Clicca sui link "Scarica il report" per accedere al report di sostenibilità
-   - Scorri la pagina per visualizzare tutti i contenuti
 
 ---
 
